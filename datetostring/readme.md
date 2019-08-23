@@ -55,4 +55,4 @@ fmt.Println("Data atual é:", dateHoraStr)
 
 Por hoje é isso espero ter ajudado.
 
-Para ver o exemplo formatado eu acesse o arquivo (https://github.com/DiegoSantosWS/godate/blob/master/datetostring/string.go)[string.go]
+Para ver o exemplo formatado eu acesse o arquivo [string.go](https://github.com/DiegoSantosWS/godate/blob/master/datetostring/string.go)
