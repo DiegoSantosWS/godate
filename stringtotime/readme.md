@@ -25,6 +25,6 @@ func main() {
 }
 ```
 
-Com esse bloco de código acima temos uma data do tipo *string* convertida para tipo *time*, para ver a função que usei na converção [clique aqui.](https://github.com/DiegoSantosWS/godate/blob/master/stringtotime/strtotime.go)
+Com esse bloco de código acima temos uma data do tipo *string* convertida para tipo *time*, para ver a função que usei na converção [clique aqui.](https://github.com/DiegoSantosWS/godate/blob/develop/stringtotime/strtotime.go)
 
 
